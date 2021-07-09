@@ -9,6 +9,7 @@ h1{
 }
 section{
     display:flex;
+    margin-bottom: 120px;
 }
 .half-width{
     width:50%;
@@ -40,3 +41,10 @@ font-weight: 700;
     width:300px;
     margin-top:50px ;
 }
+.Driem-big{
+    background-image:url(" pppp (1).png");
+    background-repeat:no-repeat ;
+    background-size: 200px;
+    background-position: right;
+    padding-bottom: 150px;
+
