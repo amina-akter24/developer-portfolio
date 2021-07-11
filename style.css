@@ -7,7 +7,7 @@ h1{
 .red-color{
     color: rgb(245, 99, 99);
 }
-section{
+.faxvele-contenar{
     display:flex;
     margin-bottom: 120px;
 }
@@ -47,4 +47,11 @@ font-weight: 700;
     background-size: 200px;
     background-position: right;
     padding-bottom: 150px;
+    }
+    .experecen-item{
+        width:40%;
+margin-left: 5%;
+margin-right: 5%;
+        box-shadow: 10px 10px  20px chartreuse;
 
+    }
