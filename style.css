@@ -50,8 +50,22 @@ font-weight: 700;
     }
     .experecen-item{
         width:40%;
-margin-left: 5%;
-margin-right: 5%;
-        box-shadow: 10px 10px  20px chartreuse;
-
-    }
+ margin-left: 5%;
+ margin-right: 5%;
+ padding-left: 40px;
+ border-radius: 20px;
+ box-shadow: 10px 10px  20px chartreuse;
+}
+#wed-dv-ex{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#full-st-ex{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(189, 9, 144),tomato);
+    border-image-slice: 1;   
+}
+footer p{
+    text-align: center;
+}
